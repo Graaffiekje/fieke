@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>2de pagina</title>
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		<meta charset="utf-8"/>
+	</head>
+	<body>
+	  <header>
+	    
+	  </header>
+	  <main>
+   <li><a href="file:///C:/Users/graaf/OneDrive/Documenten/Informatica/Website/index.html">Voorpagina</a> </li>                       <li><a href="file:///C:/Users/graaf/OneDrive/Documenten/Informatica/Website/Hobbies.html">Hobbies</a></li>
+	    <p>De foto die je zag op de vorige pagina, hing vroeger op de muur bij mijn toneelschool.
+	    De muur waar hij aan hing is gesloopt, maar daardoor hebben we nu wel een tribune en een podium!
+	    Ik speel elke vrijdag van 18.30 tot 20.30 toneel.</p>
+	    <p>Acro is de enige sport waar ik nog op zit, omdat het te druk werd met school! Maar ik vind het wel heel leuk. Het is een interessante sport. Veel mensen kennen het niet! Het is een soort chearleaden zoals dat in Amerika heet. Je zit in een groepje met 2 of 3 mensen en daar doe je dus allemaal truckjes mee. Ik train elke donderdag van 18.00 tot 20.00.</p>
+	    <img src="https://trinket-user-assets.trinket.io/5e5dab71b4e92c5f4c9752566263c24a9ff8c94a-6526cf0496f42a3158f6a9f9.jpg" alt="Acro met Elise" width="200px" /> 
+	    <p>Iets wat ik sinds kort doe is bakken! Ik volg een cursus <a href="https://www.deliciousacademy.nl/cursussen/basiscursus-rutger-bakt-zoete-broodjes/">Bakken</a> en ik bak dan elke vrijdag voordat ik naar toneel ga. De cursus die ik gekozen heb is alleen best wel moeilijk, maar gelukkig smaakt het tot nu toe wel allemaal lekker.</p>
+	  
